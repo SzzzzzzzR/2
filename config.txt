@@ -1,4 +1,4 @@
-token= NTM4Njg0MDE4MTE2MjYzOTM3.Dy3YHA.4Rz1LBjIpPyWhBTV9A7eTxnDlL0
+token= NTM5Nzk5OTUwNDk4OTg4MDM1.D0fTwQ.UkW3i1eA4vYns4khnnlawvZTzok
 owner= 505425254181502985 
 prefix= 2
 game= Tyep 2help
