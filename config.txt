@@ -1,6 +1,6 @@
 token= NTM4Njg0MDE4MTE2MjYzOTM3.Dy3YHA.4Rz1LBjIpPyWhBTV9A7eTxnDlL0
-owner= 366218441230778368 
-prefix= 7
-game= Tyep 7help
+owner= 505425254181502985 
+prefix= 2
+game= Tyep 2help
 stayinchannel=true
 songinstatus=false
